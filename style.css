@@ -1,0 +1,33 @@
+body  {
+  background-color: DarkSlateGrey;
+}
+h1,
+h2  {
+  text-align: center;
+  font-family: fantasy;
+  font-weight: bolder;
+}
+h1  {
+  color: DarkOliveGreen;
+}
+h2  {
+  color: DarkSeaGreen;
+}
+
+table, th, td {
+  border: 1px solid DimGrey; 
+}
+th, td {
+  padding: 10px;
+  color:DarkKhaki;
+}
+td:hover, tr:hover  {
+  background-color: DimGrey;
+}
+th  {
+  background-color:DarkSlateBlue;
+}
+.code {
+  background-color:DimGrey;
+  font-family: "Lucida Console";
+}
